@@ -4,7 +4,7 @@ The repo contains solutions for the [CS231n](https://github.com/pandao/editor.md
 #### Assignment 1
                 
 
-+ Q1: k-Nearest Neighbor Classifier - KNN algorith implementation
++ Q1: k-Nearest Neighbor Classifier - KNN algorithm implementation
     + [knn.ipynb](https://github.com/jim-j-james/cs231n/blob/main/assignment1/knn.ipynb)
 		+ Utilises the CIFAR10 dataset with 5000 training and 500 test records.
 		+ Computes the distance metric with two, one and no loops.
