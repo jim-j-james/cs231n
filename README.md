@@ -23,3 +23,6 @@ The repo contains solutions for the [CS231n](https://github.com/pandao/editor.md
 			+ Compute the margin score for each record aganist the incorrect classes and accumalate the loss. Average the loss and add regulaisation
 			+ Accumalate the derivative, average it and add regularisation
 			+ Return the cumilative loss and derivative
+		+ svm_loss_vectorized
+			+ Computr cumilative loss and derivative in vectorised form
+		
